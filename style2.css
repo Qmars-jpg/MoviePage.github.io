@@ -1,0 +1,45 @@
+
+body{
+    background-color:black;
+    color: aliceblue;
+}
+ .color2{
+color: aliceblue;
+
+    background-color:black;
+ }  
+
+  
+ h1 p h2 {
+    color:aliceblue;
+ }
+
+
+ 
+img{
+    display: block;
+    justify-content: center;
+    width: 50%;
+    object-fit:cover ;
+    margin: 0 auto;
+}
+button{
+    background-color: crimson;
+    display: block;
+    margin: 0 auto;
+    margin-bottom:10px ;
+}
+.embed-container { position: absolute; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
+.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.frame1{
+    margin-left: 5%;
+}
+.pagin{
+     
+        margin-left: 82px;
+        margin-right: 82px;
+}  
+.ct{
+    color: aliceblue;
+}
+    
